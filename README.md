@@ -1,4 +1,4 @@
-Hello wolrds)
+![](https://www.codewars.com/users/SteadyFred/badges/large)
 
 - 👋 Hello, I'm Islyam Sagyndyk
 - 👀 I'm interested in programming
@@ -6,7 +6,6 @@ Hello wolrds)
 - 💞️I am looking for cooperation for development
 - 📫 How to contact me sagyndyk.2002@gmail.com and tg @sagaisa
 
-![](https://www.codewars.com/users/SteadyFred/badges/large)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fredsteady23&show_icons=true&theme=github_dark_dimmed)
 
