@@ -4,7 +4,7 @@
 - 👀 I'm interested in programming
 - 🌱 Now I'm studying to be a frontend react developer
 - 💞️I am looking for cooperation for development
-- 📫 How to contact me sagyndyk.2002@gmail.com and tg @islyamsaga
+- 📫 How to contact me sagyndyk.2002@gmail.com and tg @islyamsaga, TY
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fredsteady23&show_icons=true&theme=github_dark_dimmed)
