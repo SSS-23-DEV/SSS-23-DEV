@@ -6,6 +6,7 @@
 - 💞️I am looking for cooperation for development
 - 📫 How to contact me sagyndyk.2002@gmail.com and tg @islyamsaga, TY
 
+С новым годом всех!! Идем дальше..
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fredsteady23&show_icons=true&theme=github_dark_dimmed)
 
