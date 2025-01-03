@@ -4,7 +4,7 @@
 - 👀 I'm interested in programming
 - 🌱 Now I'm studying to be a frontend react developer
 - 💞️I am looking for cooperation for development
-- 📫 How to contact me sagyndyk.2002@gmail.com and tg @islyamsagy
+- 📫 How to contact me sagyndyk.2002@gmail.com and tg @islyamsagyndyk
 
 С новым годом всех!! Идем дальше..
 
