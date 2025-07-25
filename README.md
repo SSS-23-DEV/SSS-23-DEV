@@ -6,7 +6,7 @@
 
 ![](https://www.codewars.com/users/SteadyFred/badges/large)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sdev23&show_icons=true&theme=github_dark_dimmed)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagadev23&show_icons=true&theme=github_dark_dimmed)
 
 <!--- ![](https://komarev.com/ghpvc/?username=fredsteady23&color=blue&style=for-the-badge)
 
