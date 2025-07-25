@@ -1,8 +1,8 @@
-- 👋 Hello, I'm Islyam Sagyndyk
+<!---  - 👋 Hello, I'm Islyam Sagyndyk
 - 👀 I'm interested in programming
 - 🌱 Now I'm studying to be a frontend react developer
 - 💞️I am looking for cooperation for development
-- 📫 How to contact me sagyndyk.2002@gmail.com and tg @islyamsagyndyk
+- 📫 How to contact me sagyndyk.2002@gmail.com and tg @islyamsagyndyk --->
 
 ![](https://www.codewars.com/users/SteadyFred/badges/large)
 
