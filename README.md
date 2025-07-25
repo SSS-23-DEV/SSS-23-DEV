@@ -1,4 +1,4 @@
-<!---  - 👋 Hello, I'm Islyam Sagyndyk
+<!---  - 👋 Hello, I'm Islyam Sagyndyk FredSteady23
 - 👀 I'm interested in programming
 - 🌱 Now I'm studying to be a frontend react developer
 - 💞️I am looking for cooperation for development
@@ -6,7 +6,7 @@
 
 ![](https://www.codewars.com/users/SteadyFred/badges/large)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fredsteady23&show_icons=true&theme=github_dark_dimmed)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sdev23&show_icons=true&theme=github_dark_dimmed)
 
 <!--- ![](https://komarev.com/ghpvc/?username=fredsteady23&color=blue&style=for-the-badge)
 
