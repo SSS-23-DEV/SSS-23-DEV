@@ -4,7 +4,7 @@
 - 💞️I am looking for cooperation for development
 - 📫 How to contact me sagyndyk.2002@gmail.com and tg @islyamsagyndyk --->
 
-![](https://www.codewars.com/users/SteadyFred/badges/large)
+![](https://www.codewars.com/users/Islyam23/badges/large)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagadev23&show_icons=true&theme=github_dark_dimmed)
 
