@@ -4,6 +4,8 @@
 - 💞️I am looking for cooperation for development
 - 📫 How to contact me sagyndyk.2002@gmail.com and tg @islyamsagyndyk --->
 
+[![Codewars](https://www.codewars.com/users/Islyam23/badges/large)](https://www.codewars.com/users/Islyam23)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SSS-23-DEV&show_icons=true&theme=github_dark_dimmed)
 
 <!--- ![](https://komarev.com/ghpvc/?username=fredsteady23&color=blue&style=for-the-badge)
