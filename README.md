@@ -8,7 +8,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SSS-23-DEV&show_icons=true&theme=github_dark_dimmed)
 
-[![LeetCode user FredSteady](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FFredSteady&logo=leetcode&logoColor=yellow)](https://leetcode.com/FredSteady/)
+[![LeetCode user FredSteady](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FFredSteady&logo=leetcode&logoColor=yellow)](https://leetcode.com/FredSteady/)
 
 <!--- ![](https://komarev.com/ghpvc/?username=fredsteady23&color=blue&style=for-the-badge)
 
